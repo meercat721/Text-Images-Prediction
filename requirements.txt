@@ -1,0 +1,28 @@
+# regular packages
+matplotlib
+scikit-learn
+scipy
+numpy
+seaborn
+pandas
+jupyter
+tensorflow
+typing
+
+# progress bar
+tqdm
+
+# nlp and sentiment
+spacy
+spacytextblob
+textblob-de
+textfeatures
+nltk
+
+# ranking
+tensorflow_ranking
+
+# images
+keras-tuner
+scikit-image
+opencv-python
